@@ -4,6 +4,6 @@ I am actively working in the field of data management and FAIR data. I like to b
 I  have long term experience in building user-friendly workflows to increase reproducibily in environmental and life science.
 
 ## To sum it up:
-- I am proficent using KNIME
-- I can program in Python and R
-- We can have a chat about Java
+- Proficient with KNIME :sunglasses:
+- I am a Python and R enthusiast :heart_eyes:
+- We can have a chat about Java :coffee:
