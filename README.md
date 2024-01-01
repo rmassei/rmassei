@@ -3,7 +3,7 @@ My name is Riccardo and I am a data scientist and data engineer with a long-time
 
 I am from Italy, living in Leipzig since 2012 and currently working in UFZ. I am actively working in the field of data management and FAIR data. 
 
-In the last years, I worked actively with image objects and their analysis using python.
+In the last years, I worked actively with image objects and their analysis using python. I am also occasionally working on the analysis and visulaizazion of behavioural datasets collected from danio rerio larvae and gammarus pulex.
 
 I like to blend together different programming languages such as R, Python or Java using the analytical platform KNIME. In the last month, I have a growing interest in using Galaxy as a platform to produce reproducible data.
 
