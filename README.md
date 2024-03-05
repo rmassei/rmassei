@@ -1,5 +1,5 @@
 ## Hej you! Hi there 👋
-My name is Riccardo and I am a data scientist and data engineer with a long-time background in environmental sciences and toxicology. 
+My name is Riccardo and I am a data scientist with a long-time background in environmental sciences and toxicology. 
 
 I am from Italy, living in Leipzig since 2012 and currently working in UFZ. I am actively working in the field of data management and FAIR data. 
 
